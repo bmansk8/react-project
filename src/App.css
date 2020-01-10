@@ -1,0 +1,10 @@
+#quote-box{
+  background-color:#CCCCFF;
+  width:400px;
+  margin-top:25px;
+}
+
+#tweet-quote{
+  color:white;
+  text-decoration: none;
+}
